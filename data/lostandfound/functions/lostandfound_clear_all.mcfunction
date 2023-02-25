@@ -1,0 +1,18 @@
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data remove entity @s Offers.Recipes[1]
+data modify entity @s Offers.Recipes[0].uses set value 0
+function lostandfound:close_gui
