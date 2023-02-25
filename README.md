@@ -14,6 +14,8 @@ If you die, any recoverable (see below) items you drop will be tagged for recove
 
 Assuming the items don't fall in lava when you die (or get destroyed in some other way), you still have five minutes to recover them from the ground before they despawn. If the items don't appear as trade offers of the villager immediately after you die, it means they're still out there waiting for you to find them. If you can get to them in five minutes, then you don't have to pay (and you'll recover any items deemed not valuable enough for the Lost and Found to recover). As always, this five minute timer only advances while the area the items are in is loaded.
 
+Even if the items get destroyed in some way before they can despawn, the should still be recovered. I've tested the following sources of damage: fire, lava, explosions (including charged creepers), falling anvils, and the void.
+
 ## Recoverable Items
 
 Here's a list of the items that can be recovered by the Lost and Found. Items will only be recovered if they are dropped by a player on death.
