@@ -6,7 +6,7 @@ execute as @e[tag=lostAndFound_closingDialog] run function lostandfound:close_gu
 execute as @a[scores={lostAndFound_death=1..}] at @s positioned ~ ~1 ~ run function lostandfound:lostandfound_track_death
 
 # Detect a tracked item that is about to despawn or die and save it
-execute if score lostAndFound villagerIDs > zero villagerIDs as @e[type=minecraft:item, tag=lostAndFound_track] run function lostandfound:lostandfound_track_update
+execute if score lostAndFound villagerIDs matches 1.. as @e[type=minecraft:item, tag=lostAndFound_track] run function lostandfound:lostandfound_track_update
 
 # Update lost and found villagers
 execute as @e[tag=LostAndFound] at @s run function lostandfound:lostandfound_update_1
