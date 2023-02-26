@@ -20,21 +20,23 @@ Even if the items get destroyed in some way before they can despawn, the should 
 
 Here's a list of the items that can be recovered by the Lost and Found. Items will only be recovered if they are dropped by a player on death.
 
-+ Golden, Iron, Diamond, and Netherite Pickaxe
-+ Golden, Iron, Diamond, and Netherite Axe
-+ Golden, Iron, Diamond, and Netherite Shovel
-+ Golden, Iron, Diamond, and Netherite Sword
++ Stone, Golden, Iron, Diamond, and Netherite Pickaxe
++ Stone, Golden, Iron, Diamond, and Netherite Axe
++ Stone, Golden, Iron, Diamond, and Netherite Shovel
++ Stone, Golden, Iron, Diamond, and Netherite Hoe
++ Stone, Golden, Iron, Diamond, and Netherite Sword
 + Shield
 + Bow
 + Crossbow
-+ Turtle, Chainmail, Iron, Diamond, Golden and Netherite Helmet
-+ Chainmail, Iron, Diamond, Golden, and Netherite Chestplate
++ Turtle, Leather, Chainmail, Iron, Diamond, Golden and Netherite Helmet
++ Leather, Chainmail, Iron, Diamond, Golden, and Netherite Chestplate
 + Elytra
-+ Chainmail, Iron, Diamond, Golden, and Netherite Leggings
++ Leather, Chainmail, Iron, Diamond, Golden, and Netherite Leggings
 + Leather, Chainmail, Iron, Diamond, Golden and Netherite Boots
 + Fishing Rod
 + Trident
 + Compass (only if tracking a Lodestone)
++ Map
 + Bundle
 + Shulker Box (and all color variants)
 

@@ -3,6 +3,9 @@
 	"terms": [
 		{
 			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:stone_pickaxe\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:golden_pickaxe\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
@@ -13,6 +16,9 @@
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:netherite_pickaxe\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:stone_axe\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:golden_axe\"}}" }	
@@ -27,6 +33,9 @@
 			"predicate": {"nbt": "{Item:{id:\"minecraft:netherite_axe\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:stone_shovel\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:golden_shovel\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
@@ -39,19 +48,37 @@
 			"predicate": {"nbt": "{Item:{id:\"minecraft:netherite_shovel\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:stone_hoe\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:golden_hoe\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:iron_hoe\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:diamond_hoe\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:netherite_hoe\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:stone_sword\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:golden_sword\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:iron_sword\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
-			"predicate": {"nbt": "{Item:{id:\"minecraft:shield\"}}" }	
-		}, {
-			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:diamond_sword\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:netherite_sword\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:shield\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:bow\"}}" }	
@@ -61,6 +88,9 @@
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:turtle_helmet\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:leather_helmet\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:chainmail_helmet\"}}" }	
@@ -76,6 +106,9 @@
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:netherite_helmet\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:leather_chestplate\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:chainmail_chestplate\"}}" }	
@@ -94,6 +127,9 @@
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:elytra\"}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:leather_leggings\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:chainmail_leggings\"}}" }	
@@ -136,6 +172,9 @@
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:compass\", tag:{LodestoneTracked:1b}}}" }	
+		}, {
+			"condition": "minecraft:entity_properties", "entity": "this",
+			"predicate": {"nbt": "{Item:{id:\"minecraft:filled_map\"}}" }	
 		}, {
 			"condition": "minecraft:entity_properties", "entity": "this",
 			"predicate": {"nbt": "{Item:{id:\"minecraft:bundle\"}}" }	
