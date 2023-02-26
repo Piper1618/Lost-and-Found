@@ -67,3 +67,9 @@ On the *Create New World* screen, click the *Data Packs*. You can drag the data 
 It is safe to remove the data pack at a later time. You can delete the .zip file from your world while the world is not open in Minecraft or disable it in the game using the command, `/datapack disable "file/LostAndFound.zip"`. If you are in a single-player world and don't have permission to use the command, you can temporarily grant yourself permission by pausing the game, selecting *Open to LAN*, switching *Allow Cheats* to ON, and clicking *Start LAN World*.
 
 If you remove the data pack from a world, a Lost and Found villager in that world will no longer be able to recover lost items, but nothing else will break. The villager will resume working if the pack is re-added.
+
+# Modifications
+
+If you want to alter what items can be recovered, you can modify \data\lostandfound\predicates\savable.json
+
+If you want to alter the physical appearance of the villager, you can modify \data\lostandfound\functions\lostandfound_spawn.mcfunction
